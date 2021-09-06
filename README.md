@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scutlrr&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=monokai&line_height=27&text_color=FFFFFF" alt="scutlrr's github stats"/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scutlrr&bg_color=071A2C&text_color=FFFFFF" alt="scutlrr's top langs"/>
+</p>
+
 
 <!--
 **scutlrr/scutlrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
